@@ -76,6 +76,10 @@ Windows frame and glass are 2 separate shaders:
 
 [Window Glass](images/bigScene/Materials/WindGlassNods.png)
 
+And here is more details into this shader:
+
+[Window Glass detailed](images/bigScene/Materials/GlassDetailed.png)
+
 Here is also a video how it works
 
 [Glass shader](videos/Glass.gif)
@@ -103,6 +107,8 @@ Another bike i made in a slightly different way. It looks like it was staying th
 There is also transformer booth which is covered with rust and has layers of dirt. 
 
 [Transformer](images/bigScene/Materials/TransforamtorNods.png)
+
+[Transformer detailed](images/bigScene/Materials/BoothDetailed.png)
 
 And here is a video where I demonstrate dirt and rust masks in use
 
@@ -211,7 +217,7 @@ This section highlights the core material techniques I used throughout the scene
 - Used a **ColorRamp** and **Bump Map** to simulate peeling paint layers.
 - Rust emerges from underneath, with smooth transitions controlled by procedural masks.
 
-[Rust Shader Nodes](images/bigScene/Materials/RustyBikeNods.png)
+[Rust Shader Nodes](images/bigScene/Materials/Procedural/ProcRustyMetNods.png)
 
 
 ### Stylized Wood Grain
