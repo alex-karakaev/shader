@@ -54,9 +54,9 @@ Both pavements are procedural and customizable.
 
 **Walking pavement** — fully procedural, deformable in-scene:
 
-[Walking pavement material](images/bigScene/Materials/ProcPavementNods.png)
+[Walking pavement material](images/bigScene/Materials/Procedural/ProcPavementNods.png)
 
-[Walking pavement generation](images/bigScene/Materials/ProcCobblePavementGeneration.png)
+[Walking pavement generation](images/bigScene/Materials/Procedural/ProcCobblePavementGeneration.png)
 
 And here is the video how it's work
 
