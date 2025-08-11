@@ -74,7 +74,7 @@ Windows frame and glass are 2 separate shaders:
 
 **Glass** — adjustable cracks, dirt, transparency:
 
-[Window Frame](images/bigScene/Materials/WindGlassNods.png)
+[Window Glass](images/bigScene/Materials/WindGlassNods.png)
 
 Here is also a video how it works
 
