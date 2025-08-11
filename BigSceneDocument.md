@@ -106,7 +106,7 @@ There is also transformer booth which is covered with rust and has layers of dir
 
 And here is a video where I demonstrate dirt and rust masks in use
 
-[Rust-Dirt shaders](videos/transformer-booth-dirt.mp4)
+[Rust-Dirt shaders](videos/transformer-booth-dirt.gif)
 
 The pipe wrench has the same idea. It also can be changed with amount of rust and dirt. Plus i added AO and bevel masks to highlight little details of the surface. 
   
