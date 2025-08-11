@@ -1,7 +1,7 @@
 ## In this portfolio I wanted to show a few of my projects.
  
 The first one is my first attempt in shadering small stylized Middle East building which shows my ability to texturize with shaders.
-![First project](images/smallScene/preview.png)
+![First project](images/smallScene/Preview.png)
  
 The second one is already a big scene with all materials there created by myself, all of them are procedural and changeable in just a few clicks. Plus I wanted to show my ability in geometry nodes with procedural rain and pavement made with curve.
 ![Final render](images/bigScene/preview.png)
