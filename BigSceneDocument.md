@@ -6,13 +6,13 @@ My goal was to strike a balance between realistic materials and models, and a st
 
 This scene includes over 20 custom materials, combining procedural textures, masks, and layered effects. While I won’t break down every material here, the overall result showcases my ability to manage complexity, optimize shaders, and create cohesive visual storytelling through materials.
 
-[!Final Render](images/bigScene/preview.png)
+[Final Render](images/bigScene/preview.png)
 
 ---
 
 Here’s the scene in solid view, without materials:
 
-[!Solidview](images/bigScene/WholeScene.png)
+[Solidview](images/bigScene/WholeScene.png)
 
 ---
 
@@ -22,27 +22,27 @@ All materials are procedural, except for the building textures, which were baked
 
 **Individual Materials and Node Setups**
 
-[!Big Building with graffiti](images/bigScene/Materials/BigBuildNods1.png)
+[Big Building with graffiti](images/bigScene/Materials/BigBuildNods1.png)
 
 Brick section created separately to enable displacement and geometry variation.
 
-[!Big Building with graffiti brick part](images/bigScene/Materials/BigBuildNods2.png)
+[Big Building with graffiti brick part](images/bigScene/Materials/BigBuildNods2.png)
 
 **2-floors building** is made in the same way features damage masks and decal overlays.
 
-[!2-floor building](images/bigScene/Materials/2buildNods.png)
+[2-floor building](images/bigScene/Materials/2buildNods.png)
 
 Uses similar techniques with added sunburn and mold effects via masking.
 
-[!Arch building](images/bigScene/Materials/ArchBuildNods.png)
+[Arch building](images/bigScene/Materials/ArchBuildNods.png)
 
 Shared material with color adjustments for **wall cornices and ground borders**.
 
-[!Granite material](images/bigScene/Materials/BorderNods.png)
+[Granite material](images/bigScene/Materials/BorderNods.png)
 
-[!Cornice granite material](images/bigScene/Materials/WallBordNods.png)
+[Cornice granite material](images/bigScene/Materials/WallBordNods.png)
 
-[!Cornice granite material](images/bigScene/Materials/WallBord2Nods.png)
+[Cornice granite material](images/bigScene/Materials/WallBord2Nods.png)
 
 ---
 
@@ -50,13 +50,13 @@ Both pavements are procedural and customizable.
 
 **Ground pavement** — advanced material with variation controls:
 
-[!Ground pavement material](images/bigScene/Materials/Pavement2Nods.png)
+[Ground pavement material](images/bigScene/Materials/Pavement2Nods.png)
 
 **Walking pavement** — fully procedural, deformable in-scene:
 
-[!Walking pavement material](images/bigScene/Materials/ProcPavementNods.png)
+[Walking pavement material](images/bigScene/Materials/ProcPavementNods.png)
 
-[!Walking pavement generation](images/bigScene/Materials/ProcCobblePavementGeneration.png)
+[Walking pavement generation](images/bigScene/Materials/ProcCobblePavementGeneration.png)
 
 And here is the video how it's work
 
@@ -64,17 +64,17 @@ And here is the video how it's work
 
 **Roof** — procedural material:
 
-[!Roof](images/bigScene/Materials/RoofrNode.png)
+[Roof](images/bigScene/Materials/RoofrNode.png)
 
 Windows frame and glass are 2 separate shaders: 
 
 **Window Frame** — layered wood shader simulating peeling paint:
 
-[!Window Frame](images/bigScene/Materials/WindFrameNods.png)
+[Window Frame](images/bigScene/Materials/WindFrameNods.png)
 
 **Glass** — adjustable cracks, dirt, transparency:
 
-[!Window Frame](images/bigScene/Materials/WindGlassNods.png)
+[Window Frame](images/bigScene/Materials/WindGlassNods.png)
 
 Here is also a video how it works
 
@@ -86,24 +86,23 @@ On the scene you can see that almost all objects that have metal parts are alrea
 
 I added two different bikes. One of them is old and some parts of it were stolen long time ago. Its frame is covered with rust and dirt
 
-[!Old rusty bike](images/bigScene/Materials/RustyBikeNods.png)
+[Old rusty bike](images/bigScene/Materials/RustyBikeNods.png)
 
 And more details into the nodes and dirt mask
 
-[!Old rusty bike2](images/bigScene/Materials/RustyBikeNodes2.png)
+[Old rusty bike2](images/bigScene/Materials/RustyBikeNodes2.png)
 
-[!Old rusty bike dirt](images/bigScene/Materials/DirtMask.png)
-
+[Old rusty bike dirt](images/bigScene/Materials/DirtMask.png)
 
 Another bike i made in a slightly different way. It looks like it was staying there for a long time but the only damage it has is burned paint on the frame from the sun.
 
-[!Second bike](images/bigScene/Materials/BikeNods.png)
+[Second bike](images/bigScene/Materials/BikeNods.png)
 
 ---
 
 There is also transformer booth which is covered with rust and has layers of dirt. 
 
-[!Transformer](images/bigScene/Materials/TransforamtorNods.png)
+[Transformer](images/bigScene/Materials/TransforamtorNods.png)
 
 And here is a video where I demonstrate dirt and rust masks in use
 
@@ -111,13 +110,13 @@ And here is a video where I demonstrate dirt and rust masks in use
 
 The pipe wrench has the same idea. It also can be changed with amount of rust and dirt. Plus i added AO and bevel masks to highlight little details of the surface. 
   
-[!Pipe wrench handle](images/bigScene/Materials/WrenchMat.png)
+[Pipe wrench handle](images/bigScene/Materials/WrenchMat.png)
 
-[!Pipe wrench head](images/bigScene/Materials/WrenchMat2.png)
+[Pipe wrench head](images/bigScene/Materials/WrenchMat2.png)
 
 Here is a video of how these masks can be used for different purposes. For example it could be changed from dirt to snow.
 
-[!Snow shader](videos/hydrant-snow.mp4)
+[Snow shader](videos/hydrant-snow.mp4)
 
 [Rust shader](videos/hydrant-rust.mp4)
 
@@ -129,21 +128,21 @@ I've already mentioned procedural pavement. But here I also want to demonstrate 
 
 **Leaves Pile** — procedural animation:
 
-[!Pile of leaves](videos/leaves.mp4)
+[Pile of leaves](videos/leaves.mp4)
 
 **Rain System** — procedural nodes and global mask:
 
-[!Rain](images/bigScene/Materials/Procedural/ProcRainNods.png)
+[Rain](images/bigScene/Materials/Procedural/ProcRainNods.png)
 
-[!Rain procedural and nodes](videos/RainProc.mp4)
+[Rain procedural and nodes](videos/RainProc.mp4)
 
 **Rain mask:**
 
-[!Rain scene](videos/Rain.mp4)
+[Rain scene](videos/Rain.mp4)
 
 The scene is difficult and expensive due to amount of all raw materials there. But the entire scene can be altered with a single value, demonstrating dynamic control over environmental effects. 
 
-[!Rain](images/bigScene/Materials/RainValue.png)
+[Rain](images/bigScene/Materials/RainValue.png)
 
 
 ## And the last but not least. 
@@ -151,46 +150,46 @@ These shaders serve as reusable bases for future projects:
 
 **Granite stone:**
  
-[!Stone](images/bigScene/Materials/Procedural/ProcBorderNods.png)
+[Stone](images/bigScene/Materials/Procedural/ProcBorderNods.png)
 
 **Bricks:**
 
-[!Bricks](images/bigScene/Materials/Procedural/ProcBrickNods.png)
+[Bricks](images/bigScene/Materials/Procedural/ProcBrickNods.png)
 
 **Sunburnt metal:**
 
-[!MetalSun](images/bigScene/Materials/Procedural/ProcBurnMetNods.png)
+[MetalSun](images/bigScene/Materials/Procedural/ProcBurnMetNods.png)
 
 **Rusty metal:**
 
-[!MetalRust](images/bigScene/Materials/Procedural/ProcRustyMetNods.png)
+[MetalRust](images/bigScene/Materials/Procedural/ProcRustyMetNods.png)
 
 **Concrete for walls and floor:**
 
-[!Concrete](images/bigScene/Materials/Procedural/ProcConcreteNods.png)
+[Concrete](images/bigScene/Materials/Procedural/ProcConcreteNods.png)
 
 **Plaster also for walls:**
 
-[!Plaster](images/bigScene/Materials/Procedural/ProcPlasterNods.png)
+[Plaster](images/bigScene/Materials/Procedural/ProcPlasterNods.png)
 
 **Glass:**
 
-[!Glass](images/bigScene/Materials/Procedural/ProcGlassMat.png)
+[Glass](images/bigScene/Materials/Procedural/ProcGlassMat.png)
 
 Two **pavement materials**. One of them is more flexible in details:
 
-[!Pavement1](images/bigScene/Materials/Procedural/ProcPavementNods.png)
+[Pavement1](images/bigScene/Materials/Procedural/ProcPavementNods.png)
 
-[!Pavement2](images/bigScene/Materials/Procedural/ProcPavement2Nods.png)
+[Pavement2](images/bigScene/Materials/Procedural/ProcPavement2Nods.png)
 
 **Wood:**
 
-[!Wood](images/bigScene/Materials/Procedural/ProcWoodNods.png)
+[Wood](images/bigScene/Materials/Procedural/ProcWoodNods.png)
 
 
 And here you can see different variations that i made just in few clicks for models:
 
-[!Shaders](videos/DifferentVariations.mp4)
+[Shaders](videos/DifferentVariations.mp4)
 
 ## Shader Techniques Breakdown
 
@@ -212,7 +211,7 @@ This section highlights the core material techniques I used throughout the scene
 - Used a **ColorRamp** and **Bump Map** to simulate peeling paint layers.
 - Rust emerges from underneath, with smooth transitions controlled by procedural masks.
 
-Rust Shader Nodes: images/bigScene/Materials/RustyBikeNods.png
+[Rust Shader Nodes](images/bigScene/Materials/RustyBikeNods.png)
 
 
 ### Stylized Wood Grain
@@ -220,7 +219,7 @@ Rust Shader Nodes: images/bigScene/Materials/RustyBikeNods.png
 - Procedural noise and bump mapping create a **raised grain structure** and **protruding fibers**.
 - The shader blends multiple wood types to simulate age and surface variation.
 
- Wood Shader Nodes: images/bigScene/Materials/WindFrameNods.png
+[Wood Shader Nodes](images/bigScene/Materials/WindFrameNods.png)
 
 ---
 
@@ -229,7 +228,7 @@ Rust Shader Nodes: images/bigScene/Materials/RustyBikeNods.png
 - Each stone is procedurally generated, with gaps filled by **dirt and grass**.
 - These elements are fully adjustable — density, spread, and even seasonal variation can be controlled.
 
- Pavement Nodes: images/bigScene/Materials/ProcCobblePavementGeneration.png
+ [Pavement Nodes](images/bigScene/Materials/ProcCobblePavementGeneration.png)
 
 ---
 
@@ -238,8 +237,8 @@ Rust Shader Nodes: images/bigScene/Materials/RustyBikeNods.png
 - AO and Bevel maps highlight subtle geometry details and edge wear.
 - Used to simulate **paint erosion**, **soft shadows**, and **material transitions** (e.g. exposed metal under chipped paint).
 
-Wrench Shader: images/bigScene/Materials/WrenchMat2.png  
-Hydrant Rust Demo: videos/hydrant-rust.mp4
+[Wrench Shader](images/bigScene/Materials/WrenchMat2.png)
+[Hydrant Rust Demo](videos/hydrant-rust.mp4)
 
 ---
 
