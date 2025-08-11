@@ -10,4 +10,4 @@ For this scene biggest part of the models were made by me. Some of highpoly ones
 
 ## More info about each project you can find in corresponding folders.
 
-##For the second Big Scene projects I've made photo and video of processes, of nodes, of different variations of materials and models, and added them into text descriptions of each. 
+For the second Big Scene projects I've made photo and video of processes, of nodes, of different variations of materials and models, and added them into text descriptions of each. 
