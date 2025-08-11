@@ -60,7 +60,7 @@ Both pavements are procedural and customizable.
 
 And here is the video how it's work
 
-[Walking pavement](videos/CobblestoneProc.mp4)
+[Walking pavement](videos/CobblestoneProc.gif)
 
 **Roof** — procedural material:
 
@@ -78,7 +78,7 @@ Windows frame and glass are 2 separate shaders:
 
 Here is also a video how it works
 
-[Glass shader](videos/Glass.mp4)
+[Glass shader](videos/Glass.gif)
 
 ---
 
@@ -116,9 +116,9 @@ The pipe wrench has the same idea. It also can be changed with amount of rust an
 
 Here is a video of how these masks can be used for different purposes. For example it could be changed from dirt to snow.
 
-[Snow shader](videos/hydrant-snow.mp4)
+[Snow shader](videos/hydrant-snow.gif)
 
-[Rust shader](videos/hydrant-rust.mp4)
+[Rust shader](videos/hydrant-rust.gif)
 
 ---
 
@@ -128,17 +128,17 @@ I've already mentioned procedural pavement. But here I also want to demonstrate 
 
 **Leaves Pile** — procedural animation:
 
-[Pile of leaves](videos/leaves.mp4)
+[Pile of leaves](videos/leaves.gif)
 
 **Rain System** — procedural nodes and global mask:
 
 [Rain](images/bigScene/Materials/Procedural/ProcRainNods.png)
 
-[Rain procedural and nodes](videos/RainProc.mp4)
+[Rain procedural and nodes](videos/RainProc.gif)
 
 **Rain mask:**
 
-[Rain scene](videos/Rain.mp4)
+[Rain scene](videos/Rain.gif)
 
 The scene is difficult and expensive due to amount of all raw materials there. But the entire scene can be altered with a single value, demonstrating dynamic control over environmental effects. 
 
@@ -189,7 +189,7 @@ Two **pavement materials**. One of them is more flexible in details:
 
 And here you can see different variations that i made just in few clicks for models:
 
-[Shaders](videos/DifferentVariations.mp4)
+[Shaders](videos/DifferentVariations.gif)
 
 ## Shader Techniques Breakdown
 
@@ -238,7 +238,7 @@ This section highlights the core material techniques I used throughout the scene
 - Used to simulate **paint erosion**, **soft shadows**, and **material transitions** (e.g. exposed metal under chipped paint).
 
 [Wrench Shader](images/bigScene/Materials/WrenchMat2.png)
-[Hydrant Rust Demo](videos/hydrant-rust.mp4)
+[Hydrant Rust Demo](videos/hydrant-rust.gif)
 
 ---
 
