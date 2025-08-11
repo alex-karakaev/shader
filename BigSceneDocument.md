@@ -122,7 +122,7 @@ Here is a video of how these masks can be used for different purposes. For examp
 
 ---
 
-##More examples of procedural materials and objects.
+###More examples of procedural materials and objects.
 
 I've already mentioned procedural pavement. But here I also want to demonstrate all procedural shaders
 
