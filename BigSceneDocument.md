@@ -18,7 +18,7 @@ Here’s the scene in solid view, without materials:
 
 ## Materials Overview
 
-All materials are procedural, except for the building textures, which were baked to optimize performance. The rest remain fully editable within the scene. 
+All materials are procedural and  fully editable within the scene. 
 
 **Individual Materials and Node Setups**
 
